@@ -1,0 +1,5 @@
+{
+	"ConnectionString": "mongodb://stuartw-mongo-02:K6pUxbatryd8MrCP2nQUl5a0s3oOv8o47V3REr37C6CWHrx9uPIruv4DvlgyVFgTVW1tOAfxZWWCM6a32k157g==@stuartw-mongo-02.documents.azure.com:10255/?ssl=true&replicaSet=globaldb",
+	"Database": "DemoData2",
+	"Collection": "People"
+}
